@@ -2,193 +2,130 @@
 
 <img src="profile-dashboard.gif" width="100%">
 
-<br>
-
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-EC4899?style=for-the-badge">
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-8B5CF6?style=for-the-badge">
-<img src="https://img.shields.io/badge/AGENTIC%20AI-6366F1?style=for-the-badge">
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-F43F5E?style=for-the-badge">
-
-</div>
-
-<br>
-
-<div align="center">
-
-## ✦ MY CREATIONS ✦
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🤖 SYNORA-AI
-
-`AGENTIC AI`
-
-<br>
-
-Python  
-Flask  
-Gemini API
-
-<br><br>
-
-<a href="https://github.com/sanya-1612/Synora-AI">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-EC4899?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔬 AI RESEARCH ASSISTANT
-
-`GENERATIVE AI`
-
-<br>
-
-Python  
-Flask  
-Gemini API
-
-<br><br>
-
-<a href="https://github.com/sanya-1612/AI-Research-Assistant">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-A855F7?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🪄 INVISIBILITY PORTAL
-
-`COMPUTER VISION`
-
-<br>
-
-Python  
-OpenCV  
-MediaPipe
-
-<br><br>
-
-<a href="https://github.com/tubakhxn/Invisibility-Computer-Vision">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6366F1?style=for-the-badge&logo=github">
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
+# 💗 MY CREATIONS
 
 ---
 
-<div align="center">
+## 🤖 SYNORA-AI
 
-## ✦ GITHUB STATS & GRAPHS ✦
+### `AGENTIC AI • GENERATIVE AI • AUTOMATION`
 
-<br>
+> An Agentic AI project exploring intelligent task handling and AI-powered interaction.
 
-<table>
-<tr>
+**⚡ Built With**
 
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanya-1612&show_icons=true&hide_border=true&bg_color=10000f&title_color=F472B6&text_color=E9D5FF&icon_color=EC4899&rank_icon=github">
-
-</td>
-
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanya-1612&layout=compact&hide_border=true&bg_color=10000f&title_color=F472B6&text_color=E9D5FF">
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=sanya-1612&theme=dark&hide_border=true&background=10000f&ring=EC4899&fire=F43F5E&currStreakLabel=F472B6&sideLabels=E9D5FF&dates=9F7AEA">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanya-1612&bg_color=10000f&color=E9D5FF&line=EC4899&point=FFFFFF&area=true&hide_border=true&custom_title=SANYA%20SINGH%20%E2%80%94%20CONTRIBUTION%20GRAPH">
-
-</div>
-
-<br>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![AI](https://img.shields.io/badge/Generative%20AI-F472B6?style=for-the-badge)
 
 ---
 
-<div align="center">
+## 🔬 AI RESEARCH ASSISTANT
 
-## ✦ TECH UNIVERSE ✦
+### `GENERATIVE AI • RESEARCH • FLASK`
 
-<br>
+> An AI-powered research assistant designed to interact with research content using Generative AI.
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,flask,opencv,html,css,js,git,github,vscode&theme=dark&perline=6">
+**⚡ Built With**
 
-<br><br>
-
-<table>
-<tr>
-<td align="center">🤖<br><b>AI / ML</b></td>
-<td align="center">✨<br><b>GEN AI</b></td>
-<td align="center">🧠<br><b>AGENTIC AI</b></td>
-<td align="center">👁️<br><b>COMPUTER VISION</b></td>
-<td align="center">💻<br><b>DEVELOPMENT</b></td>
-</tr>
-</table>
-
-</div>
-
-<br>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-EC4899?style=for-the-badge)
 
 ---
 
-<div align="center">
+## 🪄 AI MAGIC INVISIBILITY PORTAL
 
-## ✦ CONTRIBUTION UNIVERSE ✦
+### `COMPUTER VISION • REAL-TIME • HAND GESTURES`
 
-<br>
+> A real-time computer-vision project using webcam interaction, hand gestures and visual processing.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanya-1612&bg_color=08000f&color=F472B6&line=A855F7&point=FFFFFF&area=true&hide_border=true">
+**⚡ Built With**
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanya-1612&theme=radical">
-
-</div>
-
-<br>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00A98F?style=for-the-badge&logo=google&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge)
 
 ---
 
-<div align="center">
+# 📊 GITHUB STATS
 
-## ♡ LET'S CONNECT ♡
+![Sanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanya-1612&show_icons=true&theme=radical)
 
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanya-1612&layout=compact&theme=radical)
 
-<a href="https://github.com/sanya-1612">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+---
 
-<a href="https://linkedin.com/in/sanya-singh-rathore">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+# 🔥 CONTRIBUTION STREAK
 
-<br><br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=sanya-1612&theme=radical&hide_border=true)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=600&color=F472B6&center=true&vCenter=true&width=650&lines=ALWAYS+LEARNING+%E2%80%A2+ALWAYS+BUILDING+%E2%80%A2+ALWAYS+CREATING;SEE+YOU+IN+THE+NEXT+COMMIT+%E2%9C%A8">
+---
 
-<br><br>
+# 📈 CONTRIBUTION GRAPH
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:EC4899,50:A855F7,100:08000f">
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanya-1612&theme=redical&hide_border=true)
 
-</div>
+---
+
+# 🧠 CURRENTLY EXPLORING
+
+### 🤖 ARTIFICIAL INTELLIGENCE
+### 🧠 MACHINE LEARNING
+### ✨ GENERATIVE AI
+### 🕹️ AGENTIC AI
+### 👁️ COMPUTER VISION
+### 🚀 REAL-WORLD AI APPLICATIONS
+
+---
+
+# 💻 TECH STACK
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00A98F?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 💗 CONNECT WITH ME
+
+### 👩‍💻 GITHUB
+
+[![GitHub](https://img.shields.io/badge/SANYA--1612-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanya-1612)
+
+### 💼 LINKEDIN
+
+[![LinkedIn](https://img.shields.io/badge/SANYA%20SINGH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanya-singh-rathore)
+
+### 📧 EMAIL
+
+[![Email](https://img.shields.io/badge/SSINGH75660%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssingh75660@gmail.com)
+
+### 📸 INSTAGRAM
+
+[![Instagram](https://img.shields.io/badge/SANYA__RATHORE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanya_rathore)
+
+### 🧩 LEETCODE
+
+[![LeetCode](https://img.shields.io/badge/SANYA__RATHORE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanya_rathore/)
+
+### 🏆 HACKERRANK
+
+[![HackerRank](https://img.shields.io/badge/SSINGH75660-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ssingh75660)
+
+---
+
+# 🌌 KEEP BUILDING
+
+> **AI • CODE • CREATE • INNOVATE**
+
+### 💗 Always learning. Always building. Always improving.
