@@ -148,7 +148,9 @@ A computer-vision project using webcam interaction, hand gestures and real-time 
 
 ### 📸 Instagram
 
-[![Instagram](https://img.shields.io/badge/SANYA__RATHORE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanya_rathore)
+<a href="https://www.instagram.com/_sanya_rathore_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 ### 🧩 LeetCode
 
