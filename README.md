@@ -85,14 +85,17 @@ A computer-vision project using webcam interaction, hand gestures and real-time 
 
 ---
 
-# 📊 GITHUB STATS
+## 📊 GITHUB STATS
 
-![Sanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanya-1612&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanya-1612&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-stats-extended.vercel.app/api?username=sanya-1612&show_icons=true&hide_border=true&bg_color=10000f&title_color=F472B6&text_color=E9D5FF&icon_color=EC4899" width="49%" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanya-1612&layout=compact&hide_border=true&bg_color=10000f&title_color=F472B6&text_color=E9D5FF&icon_color=EC4899" width="49%" />
+
+</div>
 
 ---
-
 # 🔥 GITHUB STREAK
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sanya-1612&theme=radical&hide_border=true)
