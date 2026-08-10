@@ -49,15 +49,6 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00A98F?style=for-the-badge&logo=google&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge)
 
----
-
-# 📊 GITHUB STATS
-
-![Sanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanya-1612&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanya-1612&layout=compact&theme=radical)
-
----
 
 # 🔥 CONTRIBUTION STREAK
 
